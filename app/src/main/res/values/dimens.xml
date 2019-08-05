@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin_standard">98dp</dimen>
+    <dimen name="text_margin_large">58dp</dimen>
+    <dimen name="text_margin_standard2">40dp</dimen>
+    <dimen name="text_margin_top">20dp</dimen>
+    <dimen name="title_large">24sp</dimen>
+    <dimen name="text_price">18sp</dimen>
+    <dimen name="image_start">4dp</dimen>
+    <dimen name="image_bottom">16dp</dimen>
+</resources>
